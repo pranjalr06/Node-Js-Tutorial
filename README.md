@@ -1,1 +1,1 @@
-# This Rerpository contains Node JS tutorials
+# This Repository contains Node JS tutorials
